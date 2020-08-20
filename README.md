@@ -6,6 +6,6 @@ Explore the files for :
 3. Comparison and hyperparmeter tuning using gridserach of techniques such as SVM, KNN, Decision Trees, Random Forest, XGBoost.
 4. Manifold learning techniques like kernel PCA, Isomap,LLE,T-SNE etc.
 5. Numpy based implementation of PCA
-6. Analysis of PCA, LDA components.
+6. Analysis of PCA, LDA components. <br>
 7.Feature selection and extraction techniques and explanations.
 
